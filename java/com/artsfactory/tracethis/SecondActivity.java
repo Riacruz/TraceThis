@@ -4,9 +4,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
-/**
- * Created by AbhiAndroid
- */
 
 public class SecondActivity extends Activity {
 
